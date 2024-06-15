@@ -7,3 +7,6 @@ Simply change the file directory in this code to match where your .xrdml file is
 This .py script works with PANalytical X'PERT PRO XRD machines.
 
 Below is an example plot of a XRD comparison. 
+
+
+![Lithium Bromide - Water Absorption Cooling Cycle](XRD_.JPG)

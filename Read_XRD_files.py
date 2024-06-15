@@ -1,4 +1,4 @@
-
+# CHANGE YOUR FILE DIRECTORY TO SUIT WHERE YOUR .xrdml FILE IS LOCATED. #
 import matplotlib.pyplot as plt
 from lxml import etree
 import numpy as np

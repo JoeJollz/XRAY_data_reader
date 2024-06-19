@@ -1,0 +1,133 @@
+#####################################################################
+#
+# Data extracted from the ICSD database via the CrystalWorks 
+# system developed and maintained by the STFC Chemical Database Service
+# at Daresbury
+#
+# The ICSD collection code is 157036
+#
+#
+# Database specific statement:
+#
+# (C) 2016 by FIZ Karlsruhe - 
+# Leibniz Institute for Information Infrastructure.
+# All rights reserved.
+#
+#
+# Bulk downloading of CIF information from the CDS/DL server by 
+# any means is specifically forbidden
+#
+#####################################################################
+data_157036-ICSD
+_journal_volume
+;
+18
+;
+_journal_page_first
+;
+8761
+;
+_journal_name_full
+;
+J. Phys.: Condens. Matter
+;
+_journal_year
+;
+2006
+;
+loop_
+_publ_author_name
+" M. W. Lufaso"
+"R. B. Macquart"
+"Lee Yong Jae"
+"T. Vogt"
+"H. C. zur Loye"
+_chemical_formula_moiety
+;
+Sr ((Fe Nb)0.5 O3)
+;
+_chemical_name_systematic
+;
+Strontium iron(III) niobium oxide (1/0.5/0.5/3) - HT
+;
+_refine_ls_R_factor_all 0.101
+_cell_formula_units_Z 1
+_journal_paper_doi
+;
+10.1088/0953-8984/18/39/008
+;
+_journal_coden_ASTM
+;
+JCOMEL
+;
+_cell_length_a     3.986
+_cell_length_b     3.986
+_cell_length_c     3.986
+_cell_angle_alpha    90.000
+_cell_angle_beta    90.000
+_cell_angle_gamma    90.000
+_symmetry_Int_tables_number 221
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+  1 x,y,z
+  2 x,-y,-z
+  3 x,-y,z
+  4 -z,-y,x
+  5 z,-y,x
+  6 -y,x,-z
+  7 -y,x,z
+  8 -y,-z,x
+  9 -y,z,x
+ 10 x,-z,-y
+ 11 x,-z,y
+ 12 x,z,-y
+ 13 x,z,y
+ 14 -z,x,-y
+ 15 -z,x,y
+ 16 z,x,-y
+ 17 z,x,y
+ 18 y,x,-z
+ 19 y,x,z
+ 20 y,-z,x
+ 21 y,z,x
+ 22 x,y,-z
+ 23 -z,y,x
+ 24 z,y,x
+ 25 -x,-y,-z
+ 26 -x,y,z
+ 27 -x,y,-z
+ 28 z,y,-x
+ 29 -z,y,-x
+ 30 y,-x,z
+ 31 y,-x,-z
+ 32 y,z,-x
+ 33 y,-z,-x
+ 34 -x,z,y
+ 35 -x,z,-y
+ 36 -x,-z,y
+ 37 -x,-z,-y
+ 38 z,-x,y
+ 39 z,-x,-y
+ 40 -z,-x,y
+ 41 -z,-x,-y
+ 42 -y,-x,z
+ 43 -y,-x,-z
+ 44 -y,z,-x
+ 45 -y,-z,-x
+ 46 -x,-y,z
+ 47 z,-y,-x
+ 48 -z,-y,-x
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_symmetry_multiplicity
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_occupancy
+Sr1   Sr   1   0.50000   0.50000   0.50000   0.01925   1.00000
+O1    O    3   0.50000   0.00000   0.00000   0.03166   1.00000
+Fe1   Fe   1   0.00000   0.00000   0.00000   0.01089   0.50000
+Nb1   Nb   1   0.00000   0.00000   0.00000   0.01089   0.50000

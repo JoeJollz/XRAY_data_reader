@@ -1,4 +1,3 @@
-
 _cell_length_a     3.986
 _cell_length_b     3.986
 _cell_length_c     3.986

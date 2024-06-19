@@ -1,3 +1,65 @@
+#####################################################################
+#
+# Data extracted from the ICSD database via the CrystalWorks 
+# system developed and maintained by the STFC Chemical Database Service
+# at Daresbury
+#
+# The ICSD collection code is 157036
+#
+#
+# Database specific statement:
+#
+# (C) 2016 by FIZ Karlsruhe - 
+# Leibniz Institute for Information Infrastructure.
+# All rights reserved.
+#
+#
+# Bulk downloading of CIF information from the CDS/DL server by 
+# any means is specifically forbidden
+#
+#####################################################################
+data_157036-ICSD
+_journal_volume
+;
+18
+;
+_journal_page_first
+;
+8761
+;
+_journal_name_full
+;
+J. Phys.: Condens. Matter
+;
+_journal_year
+;
+2006
+;
+loop_
+_publ_author_name
+" M. W. Lufaso"
+"R. B. Macquart"
+"Lee Yong Jae"
+"T. Vogt"
+"H. C. zur Loye"
+_chemical_formula_moiety
+;
+Sr ((Fe Nb)0.5 O3)
+;
+_chemical_name_systematic
+;
+Strontium iron(III) niobium oxide (1/0.5/0.5/3) - HT
+;
+_refine_ls_R_factor_all 0.101
+_cell_formula_units_Z 1
+_journal_paper_doi
+;
+10.1088/0953-8984/18/39/008
+;
+_journal_coden_ASTM
+;
+JCOMEL
+;
 _cell_length_a     3.986
 _cell_length_b     3.986
 _cell_length_c     3.986
